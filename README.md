@@ -11,3 +11,5 @@
 ##### [BioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2020.06.14.150938v1)
 
 ##### [Uribe Lab Website](https://www.uribelabrice.com/)
+
+This repository is for this project's associated Seurat objects.
